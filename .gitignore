@@ -1,0 +1,5 @@
+.gitignore
+.idea/
+zhihuCrawler.iml
+src/main/resources/
+target/
